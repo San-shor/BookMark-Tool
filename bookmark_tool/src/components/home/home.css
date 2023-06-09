@@ -1,0 +1,83 @@
+.create_bookmark {
+    position: fixed;
+    top: 3%;
+    right: 20px;
+    background-color: blue;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+.modal {
+    position: fixed;
+    z-index: 1;
+    right: 20px;
+    left: auto;
+    bottom: 300px;
+    /* max-width: calc(100% - 400px);
+    max-height: calc(100% - 70px);  */
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+.modal-content {
+    background-color: #fff;
+    /* margin: 10% auto; */
+    padding: 10px;  
+    width:350px;
+}
+
+.bookmark-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .bookmark-form h3 {
+    font-size: 18px;
+    text-align: left;
+  }
+  
+  .bookmark-form input[type="text"],
+  .bookmark-form select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .bookmark-form button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: blue;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .bookmark-form .category-group {
+    display: flex;
+    align-items: center;
+  }
+  
+  .category-select {
+    flex: 1;
+    width: 50px; 
+    margin-right: 10px;
+  }
+  
+  .plus-button {
+    background-color: #fff;
+    border: none;
+    color: #000;
+    padding: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    width: 30px; 
+  }
+  

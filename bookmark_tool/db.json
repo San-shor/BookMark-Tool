@@ -1,0 +1,34 @@
+{
+  "bookmarks": [
+    {
+      "title": "eded",
+      "url": "ee",
+      "category": "B",
+      "id": "u24JQ9L"
+    },
+    {
+      "title": "Facebook",
+      "url": "www.facebook.com",
+      "category": "A",
+      "id": "TJz3LL4"
+    },
+    {
+      "title": "Github",
+      "url": "www.github.com",
+      "category": "A",
+      "id": "5HZL_3w"
+    },
+    {
+      "title": "CodeWorks",
+      "url": "codewroks.me",
+      "category": "D",
+      "id": "4_5ymDL"
+    },
+    {
+      "title": "Projectcode",
+      "url": "www.projectcode.me",
+      "category": "C",
+      "id": "UWFXBdo"
+    }
+  ]
+}
